@@ -1,15 +1,14 @@
 ### Hi there 👋
 
 
-**I'm a Student Developer** working on expanding accessibility in games and embellishing my achievements.
+**I'm a Student Developer** working on expanding accessibility in games and creating educational tools.
 
-- 🔭 I’m currently working on [XLang - Real Time Translations for Minecraft]() and 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on [XLang - Real Time Translations for Minecraft]()
+- 🌱 I’m currently learning **C++** and **Java**
+- 👯 I’m looking to collaborate on absolutely anything.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Evil-Space-Wizard&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Evil-Space-Wizard&count_private=true&show_icons=true&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Evil-Space-Wizard&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
