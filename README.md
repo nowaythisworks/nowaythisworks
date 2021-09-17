@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**I'm a Student Developer** working on expanding accessibility in games and creating educational tools.
+**I'm a Student Developer** working on expanding accessibility in games and writing cool experiments.
 
 - 🔭 I’m currently working on [XLang - Real Time Translations for Minecraft](https://github.com/olijeffers0n/XLang)
 - 🌱 I’m currently learning **C++** and **Java**
