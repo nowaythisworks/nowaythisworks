@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on [Encrypted Blog](https://github.com/Brazil-0034/Encrypted-Blog)
 - 🌱 I’m currently learning **C++** and **Java**
 - 👯 I’m looking to collaborate on absolutely anything.
-- 🤖 Check out [Discord Server Simulator](https://github.com/Brazil-0034/Discord-Server-Simulator)
+- 🤖 Check out [Workout Instructor](https://3d-workout-instructor.brazil-0034.repl.co/) and [Discord Server Simulator](https://github.com/Brazil-0034/Discord-Server-Simulator)
 
 <br>
 
