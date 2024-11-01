@@ -1,4 +1,4 @@
-### hi
+### Hello :)
 
 - 🔭 I’m currently working on [My Game Engine](https://github.com/nowaythisworks/Austin-Game-Engine) and [The Infinite Art Gallery](https://github.com/Brazil-0034/Infinite-Art-Gallery)
 - 🌱 I’m currently learning **C**
